@@ -1,2 +1,3 @@
 # BurgerHouse-Online_store
-Online store selling burgers
+
+Project "BurgerHouse" it is online store selling burgers.
